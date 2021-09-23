@@ -53,5 +53,8 @@ void drawAlien(int x,int y){
   
   fill(0,0,0);
   textSize(32);
-  text("Joe",12+x,280+y);  
+  text("Joe",12+x,280+y); 
+  text("Jolene",315,280);
+  text("Joseph",12,580);
+  text("Jonathan",315,583);
 }
